@@ -17,7 +17,7 @@ Follow the steps below to install and setup the project:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/afrajwho/AI-Resume_Builder.git
+   git clone https://github.com/afrajwho/VideoTube.git
    ```
 
 2. **Install Node.js**
