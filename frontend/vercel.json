@@ -1,0 +1,8 @@
+{
+    "build": {
+      "env": {
+        "REACT_APP_BACKEND_URL": "https://video-tube-idbf.vercel.app"
+      }
+    }
+  }
+  
